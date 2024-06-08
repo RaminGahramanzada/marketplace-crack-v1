@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("marketplace-crack-v1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+254cf17cf6f9f60f44a5c061863ac3dc9236a607")]
 [assembly: System.Reflection.AssemblyProductAttribute("marketplace-crack-v1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("marketplace-crack-v1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
